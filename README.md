@@ -8,4 +8,4 @@ Features that are to be implemented:
 
 Current Progress:
 7/21/2022: Started on the project, implemented basic methods in the Note Class.
-7/28/2022: Started working on Interval Class, added function to Note Class, Note Class is nearly complete.
+7/28/2022: Started working on Interval Class, added new methods to Note Class, Note Class is mostly complete.
